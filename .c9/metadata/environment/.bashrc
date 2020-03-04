@@ -1,0 +1,1 @@
+{"changed":true,"filter":false,"title":".bashrc","tooltip":"/.bashrc","ace":{},"value":"C9_HOSTNAME = \"3303242c83c14875b8caf8768f57ef3a.vfs.cloud9.us-east-1.amazonaws.com\"\n\n","undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1583169520790}
